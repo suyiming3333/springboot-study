@@ -1,0 +1,3 @@
+com\corn\springboot\configure\SplitAutoConfigure.class
+com\corn\springboot\service\impl\SplitServiceImpl.class
+com\corn\springboot\service\ISplitService.class
